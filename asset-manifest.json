@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pikaday/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/pikaday/static/js/main.e6489208.chunk.js",
+    "main.js.map": "/pikaday/static/js/main.e6489208.chunk.js.map",
+    "runtime-main.js": "/pikaday/static/js/runtime-main.d3d1b702.js",
+    "runtime-main.js.map": "/pikaday/static/js/runtime-main.d3d1b702.js.map",
+    "static/css/2.765e663a.chunk.css": "/pikaday/static/css/2.765e663a.chunk.css",
+    "static/js/2.4a70f52a.chunk.js": "/pikaday/static/js/2.4a70f52a.chunk.js",
+    "static/js/2.4a70f52a.chunk.js.map": "/pikaday/static/js/2.4a70f52a.chunk.js.map",
+    "static/js/3.73843b97.chunk.js": "/pikaday/static/js/3.73843b97.chunk.js",
+    "static/js/3.73843b97.chunk.js.map": "/pikaday/static/js/3.73843b97.chunk.js.map",
+    "index.html": "/pikaday/index.html",
+    "static/css/2.765e663a.chunk.css.map": "/pikaday/static/css/2.765e663a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/pikaday/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4a70f52a.chunk.js.LICENSE.txt": "/pikaday/static/js/2.4a70f52a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3d1b702.js",
+    "static/css/2.765e663a.chunk.css",
+    "static/js/2.4a70f52a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e6489208.chunk.js"
+  ]
+}
