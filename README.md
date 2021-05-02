@@ -1,6 +1,6 @@
 # React Wrapper for existing pikaday library.
 
-## [View Demo](https://basitowaisi.github.io/pikaday)
+## [Try Pikaday Demo](https://basitowaisi.github.io/pikaday)
 
 Only dependencies that need to be installed are moment.js and the pikaday package.
 
@@ -14,10 +14,6 @@ Pikaday
 * Lightweight (less than 5kb minified and gzipped)
 * No dependencies (but plays well with [Moment.js][moment])
 * Modular CSS classes for easy styling
-
-[**Try Pikaday Demo →**][Pikaday]
-
-![Pikaday Screenshot][screenshot]
 
 
 
