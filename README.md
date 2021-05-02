@@ -8,10 +8,6 @@ Only dependencies that need to be installed are moment.js and the pikaday packag
 Pikaday
 ========
 
-[![NPM version][npm-image]][npm-url]
-[![License][license-image]][license-url]
-[![Downloads][downloads-image]][downloads-url]
-
 
 ### A refreshing JavaScript Datepicker
 
