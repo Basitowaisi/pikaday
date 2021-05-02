@@ -1,4 +1,4 @@
-#React Wrapper for existing pikaday library.
+# React Wrapper for existing pikaday library.
 
 ## [View Demo](https://basitowaisi.github.io/pikaday)
 
