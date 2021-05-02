@@ -75,10 +75,8 @@ Pikaday has many useful options:
 
 ## Authors
 
-* David Bushell [https://dbushell.com][Bushell] [@dbushell][Bushell Twitter]
-* Ramiro Rikkert [GitHub][Rikkert] [@RamRik][Rikkert Twitter]
-
-Thanks to [@shoogledesigns][shoogledesigns] for the name.
+* David Bushell 
+* Ramiro Rikkert 
 
 Copyright © 2014 David Bushell | BSD & MIT license
 
